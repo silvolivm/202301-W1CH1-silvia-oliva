@@ -1,0 +1,17 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "primer challenge",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "challenge",
+    "1",
+    "subo",
+    "calculadora"
+  ],
+  "author": "silvia oliva",
+  "license": "ISC"
+}
